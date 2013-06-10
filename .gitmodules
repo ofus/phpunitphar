@@ -1,0 +1,47 @@
+[submodule "phpunit"]
+	path = phpunit
+	url = git://github.com/sebastianbergmann/phpunit.git
+	branch = 3.5.15
+[submodule "dbunit"]
+	path = dbunit
+	url = git://github.com/sebastianbergmann/dbunit.git
+	branch = 1.0
+[submodule "php-file-iterator"]
+	path = php-file-iterator
+	url = git://github.com/sebastianbergmann/php-file-iterator.git
+	branch = 1.2
+[submodule "php-text-template"]
+	path = php-text-template
+	url = git://github.com/sebastianbergmann/php-text-template.git
+[submodule "php-code-coverage"]
+	path = php-code-coverage
+	url = git://github.com/sebastianbergmann/php-code-coverage.git
+	branch = 1.0
+[submodule "php-token-stream"]
+	path = php-token-stream
+	url = git://github.com/sebastianbergmann/php-token-stream.git
+	branch = 1.0
+[submodule "php-timer"]
+	path = php-timer
+	url = git://github.com/sebastianbergmann/php-timer.git
+	branch = 1.0.0
+[submodule "phpunit-mock-objects"]
+	path = phpunit-mock-objects
+	url = git://github.com/sebastianbergmann/phpunit-mock-objects.git
+	branch = 1.0
+[submodule "phpunit-selenium"]
+	path = phpunit-selenium
+	url = git://github.com/sebastianbergmann/phpunit-selenium.git
+	branch = 1.0
+[submodule "phpunit-story"]
+	path = phpunit-story
+	url = git://github.com/sebastianbergmann/phpunit-story.git
+[submodule "php-invoker"]
+	path = php-invoker
+	url = git://github.com/sebastianbergmann/php-invoker.git
+[submodule "symfony/src/Symfony/Component/ClassLoader"]
+	path = symfony/src/Symfony/Component/ClassLoader
+	url = git://github.com/symfony/ClassLoader.git
+[submodule "symfony/src/Symfony/Component/Finder"]
+	path = symfony/src/Symfony/Component/Finder
+	url = git://github.com/symfony/Finder.git
